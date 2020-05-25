@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mylee1995/LMY_Portfolio.git"
+  },
+  "author": "Bryan Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mylee1995/LMY_Portfolio/issues"
+  },
+  "homepage": "https://github.com/mylee1995/LMY_Portfolio#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
