@@ -1,4 +1,4 @@
-# LMY_Portfolio
+# Bryan Lee's Portfolio
 
 Bryan Lee's Portfolio Website  
 https://mylee1995.github.io/
