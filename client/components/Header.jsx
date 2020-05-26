@@ -20,11 +20,11 @@ function Header() {
               <i class='bx bx-file-blank'></i> <span>Resume</span>
             </a>
           </li>
-          <li>
+          {/* <li>
             <a href='#portfolio'>
               <i class='bx bx-book-content'></i> <span>Portfolio</span>
             </a>
-          </li>
+          </li> */}
           <li>
             <a href='#contact'>
               <i class='bx bx-envelope'></i> <span>Contact</span>

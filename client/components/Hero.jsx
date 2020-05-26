@@ -6,7 +6,6 @@ function Header() {
       <div class='container' data-aos='zoom-in' data-aos-delay='100'>
         <h1>Bryan Mooyeong Lee</h1>
         <p>
-          I'm a
           <span
             class='typed'
             data-typed-items='Software Engineer, Fullstack Developer'
